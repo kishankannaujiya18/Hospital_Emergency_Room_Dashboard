@@ -49,7 +49,8 @@ This project is an interactive **Hospital Emergency Room Dashboard** developed i
 
 ##  Dashboard Preview
 
-<img src="dashboard.png" alt="Hospital Emergency Room Dashboard" width="100%">
+<img src="<img width="1355" height="751" alt="final dashboard hospital emergency room" src="https://github.com/user-attachments/assets/3d6ea282-f16e-42d8-8703-0dbfbd364dd9" />
+" alt="Hospital Emergency Room Dashboard" width="100%">
 
 > Replace `dashboard.png` with your dashboard screenshot file.
 
@@ -70,7 +71,7 @@ This project helped me strengthen my skills in:
 
 **Kishan Kannaujiya**
 
-- 💼 LinkedIn: *(Add your LinkedIn Profile Link)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/kishankannaujiya/)
 - 💻 GitHub: https://github.com/kishankannaujiya18
 
 
